@@ -1,12 +1,18 @@
 
- ### Olá pessoal!
+ ## Olá, gabrielsc02!
+
+ ### Sou um Programador Junior, busco experiencia aqui no GitHub, se sinta à vontade de falar algo ou dar dicas para meus códigos.
          
- <div>
-   <a href="https://github.com/gabrielsc02">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsc02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsc02&layout=compact&langs_count=6&theme=dark"/>
+<div align="center" dir="auto"=>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsc02&theme=dark"/>
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsc02&theme=dark"/>
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielsc02&theme=dark"/>
 </div>
-    
+
+<div align="center" dir="auto"=>
+   <img alt="coffee.gif?raw=true" src="https://i.pinimg.com/originals/a7/fc/a0/a7fca00bd7513302bed0dd2945777b4f.gif?raw=true" height="225" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
