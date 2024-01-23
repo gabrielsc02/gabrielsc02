@@ -1,7 +1,7 @@
+</div>
+  <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 dir="auto"><a id="user-content-olagabrielsc02" class="anchor" aria-hidden="true" tabindex="-1" href="#olagabrielsc02"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></patch></svg></a>Olá, gabrielsc02</h3>
 
- **Olá, gabrielsc02!**
- 
- Sou um Programador Junior, busco experiencia aqui no GitHub, se sinta à vontade de falar algo ou dar dicas para meus códigos.
+  **Sou um Programador Junior, busco experiencia aqui no GitHub, se sinta à vontade de falar algo ou dar dicas para meus códigos.**
          
 <div align="center" dir="auto"=>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsc02&theme=dark"/>
