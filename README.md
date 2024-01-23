@@ -1,7 +1,7 @@
 
- ## Olá, gabrielsc02!
-
- ### Sou um Programador Junior, busco experiencia aqui no GitHub, se sinta à vontade de falar algo ou dar dicas para meus códigos.
+ **Olá, gabrielsc02!**
+ 
+ Sou um Programador Junior, busco experiencia aqui no GitHub, se sinta à vontade de falar algo ou dar dicas para meus códigos.
          
 <div align="center" dir="auto"=>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsc02&theme=dark"/>
